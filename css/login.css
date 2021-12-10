@@ -1,0 +1,37 @@
+#signup-card{
+    margin: 10% auto;
+    border-color: rgb(23, 152, 228);
+    background-color: rgba(0, 0, 0, 0.781);
+    color: white;
+}
+
+#button{
+    text-align: center;
+}
+
+body {
+    background-image: url("https://idsb.tmgrup.com.tr/ly/uploads/images/2021/06/22/123588.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+    background-color: #333 !important;
+    color: white;
+    padding: 20px !important;
+}
+
+footer > *{
+   text-align: center;
+}
+
+#login-card{
+    margin: 10% auto;
+    border-color: rgb(23, 152, 228);
+    background-color: rgba(0, 0, 0, 0.781);
+    color: white;
+}
+
+#button2{
+    text-align: center;
+}

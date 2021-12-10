@@ -1,0 +1,14 @@
+#athlete-card{
+    margin: 5% auto;
+    border-color: rgb(28, 179, 230);
+}
+
+footer{
+    background-color: #333 !important;
+    color: white;
+    padding: 20px !important;
+}
+
+footer > *{
+   text-align: center;
+}
